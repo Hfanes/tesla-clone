@@ -2,7 +2,7 @@
 React Clone - Tesla
 </h1>
 
-<p align="center"><a href="https://tesla.com">Tesla Homepage</a> UI clone for study purposes.</p>
+<p align="center">SITE</p>
 
 <hr>
 
