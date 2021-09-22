@@ -9,7 +9,7 @@ React Clone - Tesla
 <hr>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Hfanes-website" height="30" width="40" src="https://github.com/Hfanes/tesla-clone/blob/master/public/images/website.png">
+<img align="center" alt="Hfanes-website"  src="https://github.com/Hfanes/tesla-clone/blob/master/public/images/website.png">
 </div>
 <hr>
 
