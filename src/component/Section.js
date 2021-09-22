@@ -33,6 +33,7 @@ function Section({title, description, backgroundImg, leftBtnText, rightBtnText})
 export default Section
 
 const  Wrap = styled.div`
+    z-index: 10;
     width:100vw;
     height:100vh;
     background-size: cover;
@@ -43,7 +44,10 @@ const  Wrap = styled.div`
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    background-image: ${props => `url("/images/${props.bgImage}")`} 
+    background-image: ${props => `url("/images/${props.bgImage}")`};
+    //overflow-x:hidden;
+
+    scroll-snap-align: center;
 `
 
 const  ItemText = styled.div`
@@ -70,9 +74,11 @@ const  LeftButton = styled.div`
     border-radius: 200px;
     opacity: 0.85;
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 15px;
     cursor: pointer;
     margin: 8px;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500;
 
 `
 
