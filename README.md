@@ -2,7 +2,7 @@
 React Clone - Tesla
 </h1>
 
-<p align="center">SITE</p>
+<img src="![image](https://user-images.githubusercontent.com/57834109/134406703-42a2c7d1-1e8b-4d13-87b9-476039333a5d.png)">
 
 <hr>
 
